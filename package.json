@@ -1,0 +1,28 @@
+{
+  "name": "token-launchpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdreamer1/Token-Launchpad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdreamer1/Token-Launchpad/issues"
+  },
+  "homepage": "https://github.com/cdreamer1/Token-Launchpad#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-truffle4": "^2.0.6",
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
